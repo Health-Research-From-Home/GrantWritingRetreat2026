@@ -4,19 +4,17 @@
 
 ## Introduction
 
-Our Grant Writing Retreat took place on Thursday 10 July to Friday 11 July, 2025 with delegates from across the country coming together for productive and inspiring sessions. 
+Our Grant Writing Retreat took place on Thursday 2 July to Friday 3 July, 2026 with delegates from across the country coming together for productive and inspiring sessions. 
 ---
 
 ## Speakers
 
 We are grateful to the following speakers who led talks and sessions:
 
-- Dr Charlotte Sharp, Hannah Turner-Uaandja, Dr Jane Taylor & Leila Hamrang 
-- Dr Elaine Mackey  
-- Professor Richard Dobson,  Dr Amos Folarin & Yatharth Ranjan 
-- Dr Karen Finney  
-- Professor Chris Yau    
-- Professor Cathie Sudlow  
+- Professor Will Dixon
+- Dr Charlotte Sharp, Lissie Fahey, Lynn Laidlaw, Dr Jane Taylor & Leila Hamrang 
+- Dr Elaine Mackey & Rachel Heron  
+- Dr. Omar Khaled (Elsayed) & Giada Brianza 
 - Dr Sabine van der Veer  
 - Professor David Schultz  
 - Professor Peter Bower  
