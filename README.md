@@ -1,4 +1,4 @@
-# Grant Writing Retreat 2025
+# Grant Writing Retreat 2026
 
 ---
 
