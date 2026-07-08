@@ -29,15 +29,11 @@ Please find the presentation slides for each speaker and further resources down 
 
 | Speaker                          | Presentation Link               |
 |----------------------------------|---------------------------------|
-| Dr Charlotte Sharp & Jane Taylor| [PPIE](https://github.com/Health-Research-From-Home/GrantWritingRetreat/blob/main/Speaker%20presentations/HRfH%20GWR_PPIE%20Talk.pptx)  |
-| Professor Richard Dobson, Amos Folarin and Yathrath Ranjan | [Technical challenges in healthresearch and RADAR-Base](https://github.com/Health-Research-From-Home/GrantWritingRetreat/blob/main/Speaker%20presentations/HRfH%20GWR_Tech%20Clinic%20-%20RD,%20AF%20&%20YR.pdf)  |
-|  Dr Elaine Mackey                |   [Information Governance Top Tips](https://github.com/Health-Research-From-Home/GrantWritingRetreat/blob/main/Resources/11.07.25_HRfH%20GWR_IG_TopTips.pptx)
-| Karen Finney                    | [Perspectives from funders and panels](https://github.com/Health-Research-From-Home/GrantWritingRetreat/blob/main/Speaker%20presentations/HRfH%20GWR_Perspectives%20from%20Funders%20&%20Panels%20-%20Karen%20Finney.pdf)  |
-| Chris Yau                       | [Perspectives from funders and panels](https://github.com/Health-Research-From-Home/GrantWritingRetreat/blob/main/Speaker%20presentations/HRfH%20GWR_Perspectives%20from%20Funders%20&%20Panels%20-%20Chris%20Yau.pptx)  |
-| Jane Taylor                     | [Perspectives from funders and panels](https://github.com/Health-Research-From-Home/GrantWritingRetreat/blob/main/Speaker%20presentations/HRfH%20GWR_Perspectives%20from%20Funders%20&%20Panels%20-%20Jane%20Taylor.pptx) |
-| Cathie Sudlow                   | [Keynote: The power of ‘big data](https://github.com/Health-Research-From-Home/GrantWritingRetreat/blob/main/Speaker%20presentations/HRfH%20GWR_Cathie%20Sudlow%20keynote.pdf)  |
+| Dr Charlotte Sharp, Lissie Fahey, Lynn Laidlaw, Dr Jane Taylor & Leila Hamrang| [PPIE](https://github.com/Health-Research-From-Home/GrantWritingRetreat/blob/main/Speaker%20presentations/HRfH%20GWR_PPIE%20Talk.pptx)  |
+| Dr Omar Khaled & Dr Giada Brianza | [Mobile Health Technologies From Wearables to Real-World Evidence](Speaker%20presentations/TechClinic.pdf)  |
+|  Dr Elaine Mackey & Rachel Heron                |  [Information Governance Top Tips](Speaker%20presentations/HRfH%20GWR_IG_Clinics_V2.2_30.06.2026.pptx)
 | Dr Sabine van der Veer, Professor David Schultz & Professor Peter Bower              | [Putting pen to paper](https://github.com/Health-Research-From-Home/GrantWritingRetreat/blob/main/Speaker%20presentations/HRfH%20GWR_Putting%20Pen%20to%20Paper%20-%20SvdV,%20PB%20&%20DS.pptx)  |
-| Will Dixon                      |  [Welcome](https://github.com/Health-Research-From-Home/GrantWritingRetreat/blob/main/Speaker%20presentations/HRfH%20GWR_Welcome%20&%20Overview.pptx)
+| Will Dixon                      |  [Welcome](Speaker%20presentations/GWR_Day1_Intro_260701.pptx)
 
 
 
@@ -57,7 +53,6 @@ Grant writing tips shared by some of our speakers on our LinkedIn
 - [Research plan template domestic](Resources/Research-Plan-Template_Domestic.docx)
 - [Reporting checklist for PPIE](https://www.bmj.com/content/358/bmj.j3453)
 - [NHS digital literacy tool](https://readability.ncldata.dev/)
-- [Research for patient benefit programme guidance for Stage 1](Resources\Research-for-Patient-Benefit-Programme-Guidance-for-Stage-1-applications.pdf)
 
 
 # Photos
