@@ -95,7 +95,7 @@ Grant writing tips shared by some of our speakers on our LinkedIn
   <img src="Photos/DSC_0838.jpg" alt="DSC_0995" style="width:100%">
   <img src="Photos/DSC_0839.jpg" alt="DSC_0996" style="width:100%">
   <img src="Photos/DSC_0844.jpg" alt="DSC_0998" style="width:100%">
-  <img src="Photos/DSC_1003.jpg" alt="DSC_1004" style="width:100%">
+  <img src="Photos/DSC_1004.jpg" alt="DSC_1004" style="width:100%">
   <img src="Photos/DSC_0851.jpg" alt="DSC_1007" style="width:100%">
   <img src="Photos/DSC_0865.jpg" alt="DSC_1009" style="width:100%">
   <img src="Photos/DSC_0872.jpg" alt="DSC_1012" style="width:100%">
